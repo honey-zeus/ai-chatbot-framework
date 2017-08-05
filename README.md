@@ -88,7 +88,10 @@ See [python CRfSuite](https://python-crfsuite.readthedocs.io/en/latest/)
  - Improve intent classification accuracy
  - Add parameter types
  - Migrate UI to React JS
- 
+
+#### Important 
+Make sure to install all the required packages and libraries.
+
 **Free Software, Hell Yeah!**
 <hr></hr>
 
